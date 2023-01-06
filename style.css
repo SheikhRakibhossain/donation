@@ -200,3 +200,13 @@ justify-content: center;
     color: white;
 
 }
+.footer-me{
+
+    background-color: #620fad;
+    padding: 5%;
+    color: white;
+    text-align: center;
+}
+.footer-me h2{
+    padding: 2% 5%;
+}
